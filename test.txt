@@ -1,0 +1,411 @@
+170	Do you keep my money if I back out of living in the residence ?
+170	What kind of stuff should I bring with me to the residence ?
+69	Can I chat with someone who could help me open a gold checking account
+113	How much is the fee for a wire transfer
+170	Can you tell me about meal plans ?
+20	Can you tell me the first step to add a beneficiary for my IRA account
+170	where can I find a RISO form for final exams ?
+85	Can you tell me what's the newest app version
+98	Hi Sarah I will be making a big purchase and I will need a cashiers cheque can you help me
+108	Can I check my transactions from last year in the transaction history
+91	What will happen to the unauthorized charge on my account?
+170	Can guests stay overnight ?
+9	When will I receive my diploma ?
+103	Is there any way to check and see options for this payment not clear my bank account
+9	My diploma only shows one minor
+73	What is the benefit of going to THE SCHOOL ?
+189	What information is needed for a wire transfer if it's also for a different Bank?
+157	What's the withdrawal limit of my debit card
+170	I want to know the rates of residences rooms
+170	Can I apply for a private room in the residence ?
+157	Is there any limit if I withdraw cash using my debit card at the ATM
+73	How do I find the building of administration?
+139	What do people do for fun in THE LOCATION ?
+9	My diploma name is not correct
+157	can I decrease my checking account withdrawal limit
+139	Does THE SCHOOL offer resources for disabled students ?
+124	Am I eligible to open an ira account
+173	Is it safe to use my credit card abroad?
+66	How can I manage multiple accounts where I can easily monitor my activity
+170	Do I get my deposit back if I cancel my application to the residence ?
+95	I want to see a career counsellor
+170	Do I need to pay to park on campus ?
+170	Can I pursue multiple residences ?
+139	What resources are available to students ?
+170	Can I cook my own meals in residence ?
+9	am I eligible for graduation
+9	need transcript urgently
+48	Am I paying a fee for opening this bank account
+109	I'm wondering if you have access to my FICO Score
+104	I need to get cash from my checking account. Can you tell me the withdrawal limit
+196	I just found out that I have a fraudulent transaction on my checking account. What shall I do
+170	How do I pay for housing ?
+170	Is there a residence that is wheelchair accessible ?
+131	Is it a standard procedure for your bank to verify my online transaction?
+64	How does it work?
+50	Can I go to an agreement with the bank to avoid foreclsoure?
+200	What are the prohibited contents for safe deposit box?
+170	How do I check if I was accepted into residence ?
+136	how can I put my money into the digital wallet
+170	Campus Housing Requirements
+9	What are digital diplomas ?
+27	How can I reverse a payment sent to wrong account number
+139	Are there any requirements for the health and dental plan ?
+64	Is there a dollar limit for Dual Auth?
+14	Can I check my minimum payment due online?
+76	Can I speak with someone who could help me add an authorize user for my credit card account
+32	Will I get alerts to remind me about my upcoming payment
+170	Will I be able to make my food in the residence ?
+179	Add my phone number to the Do Not Call list
+32	I'd like to make sure I get reminded to make payment
+170	How do roommates work ?
+114	Am I allowed to access my online banking with my iPad and my Mac at the same time
+170	What are the options for housing off of campus ?
+170	Are guests permitted to stay overnight in the residence ?
+191	All of my bank accounts got compromised and I don't have the cash to pay for what's due this month, can you help me with that
+132	What happens when a transaction on my debit card fails
+77	How can I accept mobile wallet payments?
+150	Can you put a hold on the money I processed in google pay?
+130	My friend have a walmart co-brand card I also would like to have one
+147	There are charges on my card that I did not sign up for can you help me with that
+148	Can you tell me the nearest ABC Bank branch in my area and its branch number?
+88	Does the list of billers, same in the app and online?
+86	How to lower my credit card APR
+170	Are the campus housing options co-ed ?
+81	How can I get a copy of my credit card statements
+19	Where can I find my swift code
+71	what kind of auto insurance do you have? may I know the terms
+154	Can I apply for a new business account
+85	Will I be able to access the mobile app if I opt not to update to the newest version
+69	What are my options when opening a gold checking account
+26	I'm wondering why my bank account balance went up, can you tell me the details of the most recent deposit made on my account
+170	How will roommates be assigned ?
+151	Where can I find my IBAN number
+125	I'm interested on using the mobile app for my transaction, I just want to know if it has a fee
+200	What can I put in my safe deposit box
+170	How much does it cost to park on campus ?
+148	Can you tell me the branch number of my bank here in Texas?
+180	I would like to inform you about my missing debit card
+170	In the residence , are there any kitchen items supplied such as dishes or cookware ?
+170	How do you want me to pay my residence fees ?
+178	Can you help me to open a multicurrency account
+139	Is there somewhere I can smoke on campus ?
+170	What if I want to apply to more than one residence ?
+81	Can I get a checking statement online
+156	I have a check here and I want to verify with you if I am looking at the correct account number
+170	Who do I contact to withdraw my housing application ?
+92	Is there a fee to use online banking with my transactions
+139	What options do I have for public transportation ?
+170	I am trying to pay my deposit for residence .
+170	Will I need to make a deposit for residence ?
+170	If I can cancel my housing application do you keep my money ?
+69	Can I speak with someone who could help me open a gold checking account
+13	Enterprise rent a car charged my card $200 as a deposit and I was advised it would fall off after I returned the car, but I can see it posted on my online account
+73	How good is the school?
+107	I lost my job and I will not be able to pay my mortgage is there anything you can do to help
+109	Does it hurt my score if I apply for an account
+112	How can I activate my debit card online
+139	Is there any way we can get a tour today ?
+70	Will I get billed additional if I process payment using my checking account
+170	housing for 2022/2023
+139	Where can I get a beer ?
+170	What are my options for cooking in residence ?
+170	May guests stay overnight in the dorms ?
+170	Can I pay for residence using my credit card ?
+170	Does the on-campus housing enforce a curfew ?
+170	What options do you have for short term rentals ?
+170	Tell me about the cost of the dorms .
+154	Can you help me open a business account
+32	Can I set up push notifications to remind me to make a payment
+86	I'd like to know how much will I be saving if I pay my balance in full every month
+127	How can I get my money from stocks?
+2	I send a payment by error with samsung pay, can you help me reverse it?
+170	Do I have to have a meal plan for campus housing ?
+63	When is your bank open hours
+139	Does THE SCHOOL have online booking for campus tours ?
+114	Do I need to allow permission when accessing my mobile banking through a different device
+180	I can't find my card
+66	Can I have a single sign on in all my bank accounts for easy multiple account management
+181	When was your bank founded
+51	I want to be able to get push notifications about my account balance
+108	Where can I check my old transactions in the account
+170	How do I find the contact information for the residences department ?
+105	Would you be able to check if my push notifications are one
+188	Do you have a financial advisor service?
+141	What is the KYC process
+139	How do I find out more about your students resources ?
+143	Is there any way for me to update the phone number linked to my checking account via the bank's mobile app
+112	Can you help me activate my debit card through the mobile app
+170	Is there some kind of meal plan ?
+73	Where can I study ?
+150	Can I cancel a payment processed through google pay?
+70	Is there any foreign transaction fees applicable if I use my credit card outside of the US
+170	only Fall semester housing
+164	How can I see the branches through the mobile app
+122	Can you help me redeem rewards in my account?
+195	My wallet got stolen and someone is trying to use my information
+20	May I have the link to add a beneficiary for my IRA account
+99	What types of checks can I deposit through MobileDeposit?
+170	When do I have to apply for housing?
+9	Honors for the degree
+30	Do you have a system issue
+195	I'd like to report an identity theft
+169	Hi Pat I don't like to share my information, can you assure me its secure using your online banking
+84	Do I need a lawyer to prepare a Power of Attorney
+15	Can you put a hold on the money I processed in VISA SRC?
+37	Please tag my account for SCRA
+170	Are any accommodations guaranteed for first-year students ?
+119	I need assistance regarding my stolen card
+193	May I apply for a credit card account
+35	Is it better for me to get my statements online
+5	How easy it is to open a debit account
+70	Is there any fees for doing funds transfer
+170	Are rooms guaranteed for first year students ?
+139	What activities are going on this month ?
+67	How can I get my money from bonds?
+49	Am I eligible to open a vip account
+104	How can I get a higher withdrawal limit for my checking account
+170	What are the rules regarding overnight guests ?
+170	How long will it take for the residence to receive my payment ?
+9	Do I have to pay for a digital diploma ?
+59	What are the available services in my mobile banking app
+47	Can you help me redeem my rewards
+5	Can I chat with someone who could help me open a debit account
+23	How do I know if my card is contactless
+139	Would I be able to take a virtual campus tour ?
+139	What is the process for organizing a tour of campus ?
+73	I want to call the university, so what is your number?
+85	Can you help me check if I have the most updated app version for the mobile app
+79	Do I pay interest?
+163	Can you tell me what is my balance
+152	How do I get started paying bills?
+182	I was checking my wife's stuff and saw that she has a credit card with your bank. I would like to let you know about her passing
+139	Is the health and dental plan free ?
+144	Can you help me get a replacement card sent to a temporary address
+179	I am not interested in any promotions, please don't call me
+139	Is there somewhere I can smoke weeds on campus ?
+139	How expensive is it to bus to the school ?
+83	Where is the closest ATM here in Town
+132	I cannot seem to use my debit card
+179	How to add my number on a Do Not Call list
+170	How much will the housing fee be for one semester ?
+197	Do you provide loans
+138	Hi, I will be process an international wire transfer today, I just want to know when will the recipient gets the money?
+170	Can I book a tour of residence ?
+155	What is your customer service toll-free number
+200	Why use a safe deposit box?
+170	I have some questions about moving into the dorms
+48	What are the fees applicable to my credit card
+139	How do I opt-in to the student benefit plan ?
+170	What is the best way to pay for residence ?
+103	Can you help me process a stop payment
+76	Can you help me add an authorize user for my credit card account
+2	Can you help me setup my samsung pay?
+196	There's a transaction on my checking account that I don't recognize
+182	Who should I speak with if I want to notify the bank about the account holder's death
+155	Does your bank have a social media account
+193	May I speak with an application specialist for a credit card
+170	Will I be able to make my own meals in the residence ?
+186	Hi Mary can you help me, I was trying to withdraw from the ATM machine but it did not dispense any money however my account is showing a debit
+109	How often is my FICO score updated
+194	I don't want my check to bounce, can you entoll me to check guarantee?
+170	Is there any temporary on campus housing available for trades ?
+51	I want to get notified regarding my account balance
+44	Can I set up my account recovery by security question for my checking account?
+170	Are we aloud to bring our own tvs into residence ?
+4	How do you alert me when a deposit is on hold?
+72	How do I access interpreter services
+171	I'm getting an issue trying to log in online
+171	I know I have the correct password but the website is not accepting it
+129	What do I need to do to open a checking account
+129	Am I eligible to open a checking account
+159	How long before a person receives the money if it was sent through apple pay?
+170	Is there a way I can pay for a semester worth of parking ?
+86	What is an APR
+4	When will the funds from a deposited check be available?
+112	I want to make sure my debit card is good to go, can you help me activate it
+170	Are overnight guests permitted in residence ?
+141	Why is KYC important
+184	Where can I mail my deposit?
+170	How late is the curfew for the dorms ?
+170	I have a question regarding on campus housing.
+73	How big is the campus ?
+170	When can we start matching with roomates ?
+170	What are your dorms like ?
+22	Will I be notified once my auto debit is completed?
+191	I just got hire and I won't get paid until after 2 weeks, is there any way you could help me with this month's payment due
+112	I just received my new credit card and I want to make sure I can use it
+106	Do you provide a advisory service for investment?
+170	Do I have to buy a meal plan for residence ?
+5	Can I open a debit account
+163	How much is my credit card’s current balance
+101	I'm still using S15 samsung phone will it work for the mobile banking app
+80	can you retrive my PIN
+9	how do I get my official transcript ? I am still in campus
+122	How can I redeem the rewards I earned in the account?
+9	How to confirm what name is on the diploma
+147	I need assistance changing my bank account number because my email got compromised
+9	I need to see all my grades and GPA in the past semester
+139	Do I have to leave campus to smoke ?
+4	What are ABC Bank responsibilities to me regarding a deposit hold?
+121	I want to learn more about retirement plan?
+176	I'd like to make sure I can access my checking account while I'm on my vacation in the Maldives
+170	What amount is required for the housing deposit ?
+194	HI, I want to avoid a bounce check because it reflects badly on my credit, can you have me on check guarantee?
+170	Is there a curfew for students living on campus ?
+139	What is the average length of your tour ?
+173	Is it risky to use my credit card for online transaction?
+48	Is there any maintenance fee for my bank account
+21	I want to change my billing cycle to a more convinient date. Can you help me with that
+176	Do I need to give you a heads up if I still want to have access to my checking account while I'm in China
+170	is there any housing left ?
+139	Tell me about the student benefit plan ?
+16	Can the Digital Secure Key be used if I'm overseas and my phone does not have internet access?
+13	I can't get a hold of a representative of Uber over the phone, can I file a dispute on my credit card transaction instead
+163	How much have I used up on my credit card so far
+72	can I have a French speaking agent to talk
+50	What assistance can you give to prevent homeowners going to foreclosure?
+120	Am I exempt from having to be vaccinated ?
+146	How easy it is to open a money market account
+139	I'm just wondering what there is to eat on campus
+81	How do I get a checking account statement
+72	Do you have a french-speaking agent I can speak with
+170	Is parking on campus free ?
+170	When can I expect my housing deposit to be returned to me ?
+170	Can my roommate be of the opposite gender ?
+25	What number should I call if I can't access my credit card online account
+170	I need to pay for residence
+170	Do you keep all my money if I cancel my housing application ?
+170	If I have a person I want to room with - how to I put that on the application for student housing?
+106	Do you have forbearance program?
+42	Can I reactivate my account if its tag as dormant account?
+13	I was looking at my checking account online and I saw an unauthorized transaction last weekend, can you help me with that
+170	How would I withdraw my housing application ?
+170	Trades accommodations
+160	Willl the fund post immediately to the recipient, if the wire transfer is going to  ABC Bank which is also my bank?
+105	How do I know if push notifications are on
+37	What do I need to do to apply the scra on my account
+170	Will I have a parking spot at my dorm ?
+135	If I entered a wrong account information on my wire transfer can it be updated?
+170	How much will the deposit be when I apply to the residence ?
+178	What are my options when opening a multicurrency account
+34	Do you offer contactless payment?
+29	How long is the ACH transaction in pending status?
+2	What Information should I give to the sender if I want to receive payment through samsung pay?
+99	What should I do with my paper check?
+67	Can you help me, I want to learn more about bonds.
+170	How long do I wait for you to get my housing payment ?
+174	Can you assist me to open a student account through this chat
+170	residence adviosr
+174	What do I need to do to open a student account
+1	Can I re-use old pin number when I reset my PIN?
+11	Can you assist me in making changes on my direct deposit.
+0	Will I be able to schedule a payment online?
+170	how much is the residence ?
+19	I need to get the swift code for my transfer?
+8	How can I process an account cancellation
+170	What furniture is in the residences ?
+129	How can I open a checking account in your branch
+170	Do I need to book a tour of residence or can I just show up ?
+143	I would like to update the phone number I have listed for my credit card
+24	I am expecting a payment through zelle, how long will the money credit into my account?
+157	Do I need to inform my bank if I want to withdraw a large amount of money using my debit card
+176	Do I need to notify my bank if I'm traveling abroad and I want to make a transaction to my checking account
+8	I need to cancel my credit card
+40	How do I edit or delete my account alerts?
+170	Will there be furniture when I move into campus housing ?
+144	I cannot read the numbers on my credit card, please send me a new one in the mail
+178	Can you help me open a multicurrency account
+157	Are you limiting my cash withdrawal using my debit card
+193	Am I eligible to apply for a new credit card
+63	Do you open your banks on holiday?
+182	I didn't realize that I am an authorized user under my dad's credit card with your bank. I just want to let you know that he passed away several months ago and can you also tell me what I need to do to close his account
+187	How did the merchant charge me twice?
+170	Do I get my money back if I cancel my housing application ?
+183	Where can I check my due date
+170	What is the mailing address for the residences ?
+119	My purse got stolen and all of my cards are there. I need your help
+19	Can I get the swift code which I need for my fund transfer.
+170	When will residence offers go out ?
+171	I don't use smartphones and I cannot seem to log in using your website. Can you help me with that
+139	What kind of activities are there for students ?
+139	Tell me about the health and dental plan
+33	I wrote a check for $500 dollars and I forgot that I only have $300 dollars available, that check overdrafted my account can you check if it was processed already
+136	what is digital wallet
+5	What do I need to do to open a debit account
+170	What is the earliest someone can apply for campus accommodations ?
+82	I want to apply for a bank account, can you help me
+139	How do students organize a tour of campus ?
+155	What is the bank's direct number
+31	What information do I need to process RTP?
+73	What social media accounts does THE SCHOOL have ?
+9	I lost my diploma
+125	Is there a fee to use your mobile app with my transactions
+170	How do roommates get assigned ?
+170	Are the residences wheelchair accessible ?
+195	How do I report an identity theft
+58	Will I get notified if a payment is made to my account
+170	Are guests permitted in residence ?
+7	I have unused foreign currency, do you buy foreign currency?
+182	I would like to inform you about my grandfather's death. He has a checking account with your bank
+52	What is the maximum atm deposit amount?
+170	does the dorm have internet?
+170	Are my friends okay to come up to my dorm room ?
+31	Can I process RTP online?
+170	Can a guest stay overnight in the residence ?
+61	Do you have a text banking feature
+181	How long have you been in the business
+139	Is there somewhere I can view the resources for students ?
+45	Hi, I'm interested in refinancing my mortgage can you help me?
+197	I want to apply for a loan
+107	I am struggling with payment on my mortgage loan can you help me
+136	how can i apply for a ditgial wallet
+139	What is there to do in the summer in THE LOCATION ?
+112	Can you make sure my card is activated
+170	Which residence has a meal plan ?
+142	Can I do a balance transfer with this credit card
+170	Who can have a private room in the residences ?
+9	Where do I go to get my transcripts ?
+170	Where can I find the cost of you housing options ?
+195	How do I report if my identity got stolen
+66	Hi Sandy I have 3 accounts with your bank can I add all of them in one online banking access
+139	How much is it for a gym pass at THE SCHOOL ?
+139	Are there fitness facilities at THE SCHOOL ?
+158	My current balance in the account is $500, and I have a pending of $100 does it mean that the $500 is what I can use or I still need to allocate the $100
+120	for the courses that are cancelled because of the Covid 19, what is the action going forward?
+170	Does residence require a full course load to live there ?
+139	My daughter and I will be in the area this weekend and wanted to see if the campus is open to walking around. She is considering the school for the fall
+139	Are your tours long ?
+9	I am a current student and need my official transcript
+25	May I speak with a customer service representative regarding my bank account
+9	Where can I watch my ceremony ?
+61	What are the limitations of text banking
+170	Which campus housing option is wheelchair accessible ?
+59	Can I see my transactions from last month using my mobile banking app
+170	Do I have to put a deposit down for housing ?
+92	Is there a fee for using online bank
+25	May I speak with a specialist to check recent transactions on my bank account
+170	what size sheets do I buy for someone staying in the THE SCHOOL dorm ?
+170	How many days does it take to get a housing refund ?
+139	How much to ride the bus to THE SCHOOL ?
+181	What's your bank's best asset
+196	Can you assist me with a possible fraud on my bank account
+171	Do you have access to my password
+170	do you offer help finding a suitable place for us ?
+170	Where can I find off-campus accommodations ?
+164	Is there any way to check the branches through the bank's website
+4	What happens when a deposit hold is placed on my funds?
+170	Are guests allowed to stay the night in my room ?
+9	I graduated from the school in June 2022. Is there any updates as to when I will receive my diploma?
+170	What furnishings are available in the residence rooms ?
+62	How am I able to set up alerts for the rewards and promotions
+48	Is there any way to avoid paying for the annual fee
+170	Where can I find the contact information for the residence office ?
+198	Today is my statement date and I'm wondering how long should I wait before I can access my statement online
+84	What is POA used for
+95	Is career counseling available for non students ?
+9	My diploma arrived damaged, so I really need another copy
+84	How long does a power of attorney last
+170	Can I apply to all the housing options ?
+139	Can my husband opt into the health and dental plan ?
+153	Payment did not post to merchant
